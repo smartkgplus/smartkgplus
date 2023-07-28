@@ -1,0 +1,13 @@
+PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX  rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  url:  <http://schema.org/>
+
+SELECT  ?amazon ?country ?abstract
+WHERE
+  { ?amazon   rdf:type       url:RiverBodyOfWater ;
+              rdfs:label     "Tempisque River" ;
+              dbpo:country   ?country .
+    ?country  dbpo:abstract  ?abstract
+  }

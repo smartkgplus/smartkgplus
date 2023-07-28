@@ -1,0 +1,4 @@
+PREFIX  dc: <http://dbpedia.org/ontology/>
+select  ?X ?Y  where {?X dc:academicAdvisor ?Y .
+                             ?Y a dc:Scientist .
+                             ?X dc:knownFor <http://dbpedia.org/resource/EPR_paradox>}

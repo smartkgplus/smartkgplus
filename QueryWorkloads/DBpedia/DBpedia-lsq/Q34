@@ -1,0 +1,9 @@
+SELECT *
+WHERE{
+?s <http://dbpedia.org/property/almaMater> ?a .
+?s <http://dbpedia.org/property/deathDate> ?d .
+?s <http://dbpedia.org/property/deathPlace> ?dp .
+?s <http://dbpedia.org/property/imageSize> ?i .
+?s <http://dbpedia.org/property/nationality> ?n .
+}
+

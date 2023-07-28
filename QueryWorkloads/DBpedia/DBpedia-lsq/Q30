@@ -1,0 +1,9 @@
+SELECT *
+WHERE{
+?s <http://dbpedia.org/property/genre> ?genre .
+?s <http://dbpedia.org/property/label> ?label .
+?s <http://dbpedia.org/property/producer> ?producer .
+?s <http://dbpedia.org/property/artist> ?artist .
+?s <http://dbpedia.org/ontology/producer> ?producer .
+?s <http://dbpedia.org/ontology/writer> ?writer .
+}

@@ -1,0 +1,18 @@
+# The name of the server
+name: SaGe Server
+# Server maintainer(s)
+maintainer: Firstname Lastname
+# Time quantum used by the server
+quota: 75
+# (Optional) Maximum number of results fetched by HTTP request
+max_results: 2000
+# RDF Graphs hosted by the server
+graphs:
+-
+  name: dbpedia
+  uri: [Removed due to double blind]
+  description: WatDiv
+  # Type of backend (only hdt-file is available now)
+  backend: hdt-file
+  # Path to the HDT file
+  file: /home/ubuntu/Srv/jetty/data/dbpedia2015.hdt

@@ -1,0 +1,14 @@
+ PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  dbpr: <http://dbpedia.org/resource/>
+PREFIX  dbprop: <http://dbpedia.org/property/>
+
+SELECT  *
+WHERE
+  { ?movie    rdf:type           dbpo:Film ;
+              dbpo:country       ?mcountry; .
+    ?mcountry  dbpo:language     dbpr:English_language .
+    ?p        dbprop:birthPlace  ?pcountry .
+    ?pcountry  dbpo:language     dbpr:German_language .
+    ?movie    dbpo:starring      ?p
+  }

@@ -1,0 +1,10 @@
+
+PREFIX  skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT  ?uri ?uri1 ?abstract ?top
+WHERE
+  { <http://dbpedia.org/resource/Category:Iron_Age_Europe>
+              skos:broader  ?uri .
+    ?uri      skos:broader  ?uri1 .
+    ?uri1     skos:broader  ?uri1
+  }

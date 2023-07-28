@@ -1,0 +1,14 @@
+PREFIX  dby:  <http://dbpedia.org/class/yago/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  dbpr: <http://dbpedia.org/resource/>
+PREFIX  foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX  dbprop: <http://dbpedia.org/property/>
+
+SELECT DISTINCT  ?artist ?name
+WHERE
+  { ?artist  rdf:type              <http://dbpedia.org/class/yago/AlumniOfTheUniversityOfMusicAndPerformingArts,Vienna> ;
+             dbprop:wikiPageUsesTemplate  dbpr:Template:Infobox_musical_artist ;
+             foaf:name             ?name
+    FILTER ( ?artist != dbpr:Zubin_Mehta )
+  }
+LIMIT   100

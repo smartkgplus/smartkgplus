@@ -1,0 +1,5 @@
+SELECT ?lang ?nation ?com 
+WHERE {
+?lang <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type> ?nation.         
+?nation <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type> ?com . 
+}

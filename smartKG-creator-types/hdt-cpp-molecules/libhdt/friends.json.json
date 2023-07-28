@@ -1,0 +1,28 @@
+{
+  "numFamilies": 3, 
+  "infrequentPredicates": [  ], 
+  "families": [ 
+    { "index": 1, 
+      "name": "parts_friends1.hdt", 
+      "originalFamily": true, 
+      "numTriples": 25, 
+      "sourceSet": [  ],
+      "grouped": true, 
+      "predicateSet": [ "http://dbpedia.org/ontology/occupation", "http://dbpedia.org/ontology/portrayer", "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "http://www.w3.org/2000/01/rdf-schema#label" ]
+    }, 
+    { "index": 2, 
+      "name": "parts_friends2.hdt", 
+      "originalFamily": true, 
+      "numTriples": 5, 
+      "sourceSet": [  ],
+      "predicateSet": [ "http://dbpedia.org/ontology/occupation", "http://dbpedia.org/ontology/portrayer", "http://dbpedia.org/ontology/spouse", "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "http://www.w3.org/2000/01/rdf-schema#label" ]
+    }, 
+    { "index": 3, 
+      "name": "parts_friends3.hdt", 
+      "originalFamily": true, 
+      "numTriples": 7, 
+      "sourceSet": [  ],
+      "predicateSet": [ "http://dbpedia.org/ontology/birthDate", "http://dbpedia.org/ontology/occupation", "http://dbpedia.org/ontology/portrayer", "http://dbpedia.org/property/spouse", "http://dbpedia.org/property/title", "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "http://www.w3.org/2000/01/rdf-schema#label" ]
+    } 
+  ] 
+}

@@ -1,0 +1,10 @@
+select * where {
+?s <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Aalborg> .
+?s <http://dbpedia.org/ontology/wikiPageExternalLink> ?a .
+?s <http://dbpedia.org/ontology/wikiPageRevisionID> ?b .
+?s <http://dbpedia.org/ontology/wikiPageID> ?c .
+?s <http://www.w3.org/ns/prov#wasDerivedFrom> ?d .
+?s <http://xmlns.com/foaf/0.1/givenName> ?e .
+?s <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> ?f .
+?s <http://www.w3.org/2000/01/rdf-schema#comment> ?g .
+}

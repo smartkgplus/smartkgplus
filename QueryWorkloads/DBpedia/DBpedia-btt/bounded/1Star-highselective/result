@@ -1,0 +1,42 @@
+Q1:
+TPF: 0 results in 1.0s
+SaGe: 0 results in 0.145 s	
+smartKG: 1.0s
+SmartKG++: 1.4s
+[1 star, high selective]
+===============================
+Q2:
+TPF: 0 results in 0.24
+SaGe: 0.134 s	 
+SmartKG: 0.26s
+SMARTKG++: 1.2s
+[1star, high selective]
+===============================
+Q3:
+TPF:  18 results in 161.9s
+SaGe: 18 results in 1.17s[ 4 clients -> timesout]
+SMARTKG:  18 results in 161.9s
+SMARTKG++: 18 results in 7.0 sec
+[1 star, not selective]
+===============================
+Q4:
+TPF: 76 results in 49.4s [filter slows down the execution]
+SaGe: 76 result in 5.032 s	
+SmartKG:  49.4s
+SmartKG++: 2.4s 
+[1 star, highselcitive]
+===============================
+Q5:
+tPF: 3,290 results in 161.7s
+SaGE: 43 results in 26.373 s
+SmartKG: 170s
+SmartKG++: 78.0s
+[1star, high selective]
+===============================
+Q6:
+PF: 0 in times out (without filter - 13,313 results in 174.6s)
+SaGE: 4 in 7.2s
+SmartKG: 170s
+SmartKG++: 5.0s
+[1 star, selective]
+

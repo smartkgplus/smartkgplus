@@ -1,0 +1,9 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?cat ?cat1 ?sub
+WHERE
+  { ?cat skos:broader <http://dbpedia.org/resource/Category:Buildings_and_structures_in_Europe> .
+    ?cat1 skos:broader ?cat .
+    ?cat1 skos:subject ?sub
+
+
+}

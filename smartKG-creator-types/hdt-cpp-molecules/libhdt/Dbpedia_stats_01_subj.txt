@@ -1,0 +1,1171 @@
+These classes will be filtered in:
+217334736
+http://www.wikidata.org/entity/Q3957
+
+27643373
+http://dbpedia.org/ontology/Infrastructure
+
+27643347
+http://dbpedia.org/ontology/Group
+
+27643447
+http://dbpedia.org/ontology/MusicalArtist
+
+27643297
+http://dbpedia.org/ontology/Event
+
+191503325
+http://schema.org/EducationalOrganization
+
+191503346
+http://schema.org/Product
+
+217334632
+http://www.wikidata.org/entity/Q1656682
+
+216049314
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event
+
+27643494
+http://dbpedia.org/ontology/Politician
+
+27643147
+http://dbpedia.org/ontology/Artist
+
+27643307
+http://dbpedia.org/ontology/Film
+
+27643473
+http://dbpedia.org/ontology/Organisation
+
+217334812
+http://www.wikidata.org/entity/Q729
+
+216049321
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson
+
+27643195
+http://dbpedia.org/ontology/Building
+
+191503336
+http://schema.org/MusicAlbum
+
+217334788
+http://www.wikidata.org/entity/Q532
+
+156189470
+http://dbpedia.org/ontology/Wikidata:Q11424
+
+191503339
+http://schema.org/Organization
+
+27643474
+http://dbpedia.org/ontology/OrganisationMember
+
+27643598
+http://dbpedia.org/ontology/SportsTeamMember
+
+0
+
+
+27643662
+http://dbpedia.org/ontology/Work
+
+217334822
+http://www.wikidata.org/entity/Q756
+
+217254558
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
+
+156189454
+http://dbpedia.org/ontology/Location
+
+27643497
+http://dbpedia.org/ontology/PopulatedPlace
+
+217334648
+http://www.wikidata.org/entity/Q19088
+
+216049312
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact
+
+27643397
+http://dbpedia.org/ontology/List
+
+27643555
+http://dbpedia.org/ontology/Settlement
+
+27643481
+http://dbpedia.org/ontology/PersonFunction
+
+27643152
+http://dbpedia.org/ontology/Athlete
+
+217334851
+http://www.wikidata.org/entity/Q937857
+
+27643448
+http://dbpedia.org/ontology/MusicalWork
+
+27643666
+http://dbpedia.org/ontology/Writer
+
+27643587
+http://dbpedia.org/ontology/Species
+
+27643295
+http://dbpedia.org/ontology/Eukaryote
+
+217334769
+http://www.wikidata.org/entity/Q482994
+
+27643243
+http://dbpedia.org/ontology/Company
+
+217334605
+http://www.wikidata.org/entity/Q1390
+
+27643375
+http://dbpedia.org/ontology/Insect
+
+27643648
+http://dbpedia.org/ontology/Village
+
+27643135
+http://dbpedia.org/ontology/Animal
+
+27643575
+http://dbpedia.org/ontology/SoccerPlayer
+
+217334597
+http://www.wikidata.org/entity/Q134556
+
+217334755
+http://www.wikidata.org/entity/Q43229
+
+191503335
+http://schema.org/Movie
+
+27643142
+http://dbpedia.org/ontology/ArchitecturalStructure
+
+191503337
+http://schema.org/MusicGroup
+
+27643125
+http://dbpedia.org/ontology/Album
+
+27643604
+http://dbpedia.org/ontology/Station
+
+217334770
+http://www.wikidata.org/entity/Q483501
+
+191503326
+http://schema.org/Event
+
+217334667
+http://www.wikidata.org/entity/Q2188189
+
+217334746
+http://www.wikidata.org/entity/Q41176
+
+The type predicate has the id:60230
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+
+Total predicates: 60264
+Infrequent predicates (less than 83725) : 59995
+
+Max group size, less than 41862897
+
+Min subject group size, more than 11398
+
+Cut predicates (>= 837257) : 50
+
+10000000 triples
+20000000 triples
+30000000 triples
+40000000 triples
+50000000 triples
+60000000 triples
+70000000 triples
+80000000 triples
+90000000 triples
+100000000 triples
+110000000 triples
+120000000 triples
+130000000 triples
+140000000 triples
+150000000 triples
+160000000 triples
+170000000 triples
+180000000 triples
+190000000 triples
+200000000 triples
+210000000 triples
+220000000 triples
+230000000 triples
+240000000 triples
+250000000 triples
+260000000 triples
+270000000 triples
+280000000 triples
+290000000 triples
+300000000 triples
+310000000 triples
+320000000 triples
+330000000 triples
+340000000 triples
+350000000 triples
+360000000 triples
+370000000 triples
+380000000 triples
+390000000 triples
+400000000 triples
+410000000 triples
+420000000 triples
+430000000 triples
+440000000 triples
+450000000 triples
+460000000 triples
+470000000 triples
+480000000 triples
+490000000 triples
+500000000 triples
+510000000 triples
+520000000 triples
+530000000 triples
+540000000 triples
+550000000 triples
+560000000 triples
+570000000 triples
+580000000 triples
+590000000 triples
+600000000 triples
+610000000 triples
+620000000 triples
+630000000 triples
+640000000 triples
+650000000 triples
+660000000 triples
+670000000 triples
+680000000 triples
+690000000 triples
+700000000 triples
+710000000 triples
+720000000 triples
+730000000 triples
+740000000 triples
+750000000 triples
+760000000 triples
+770000000 triples
+780000000 triples
+790000000 triples
+800000000 triples
+810000000 triples
+820000000 triples
+830000000 triples
+ Number of families:263771
+Number of classes filtered:57
+Number of subjects filtered in classes:2226034
+tau_l min pred:0.01
+tau_h max pred:0.1
+Get the families with at least 11398 subjects
+8 core families present in >= 11398 (0.01 percent of the subjects)
+112predicates in the core families
+
+0 families processed
+1000 families processed
+2000 families processed
+3000 families processed
+4000 families processed
+5000 families processed
+6000 families processed
+7000 families processed
+8000 families processed
+9000 families processed
+10000 families processed
+11000 families processed
+12000 families processed
+13000 families processed
+14000 families processed
+15000 families processed
+16000 families processed
+17000 families processed
+18000 families processed
+19000 families processed
+20000 families processed
+21000 families processed
+22000 families processed
+23000 families processed
+24000 families processed
+25000 families processed
+26000 families processed
+27000 families processed
+28000 families processed
+29000 families processed
+30000 families processed
+31000 families processed
+32000 families processed
+33000 families processed
+34000 families processed
+35000 families processed
+36000 families processed
+37000 families processed
+38000 families processed
+39000 families processed
+40000 families processed
+41000 families processed
+42000 families processed
+43000 families processed
+44000 families processed
+45000 families processed
+46000 families processed
+47000 families processed
+48000 families processed
+49000 families processed
+50000 families processed
+51000 families processed
+52000 families processed
+53000 families processed
+54000 families processed
+55000 families processed
+56000 families processed
+57000 families processed
+58000 families processed
+59000 families processed
+60000 families processed
+61000 families processed
+62000 families processed
+63000 families processed
+64000 families processed
+65000 families processed
+66000 families processed
+67000 families processed
+68000 families processed
+69000 families processed
+70000 families processed
+71000 families processed
+72000 families processed
+73000 families processed
+74000 families processed
+75000 families processed
+76000 families processed
+77000 families processed
+78000 families processed
+79000 families processed
+80000 families processed
+81000 families processed
+82000 families processed
+83000 families processed
+84000 families processed
+85000 families processed
+86000 families processed
+87000 families processed
+88000 families processed
+89000 families processed
+90000 families processed
+91000 families processed
+92000 families processed
+93000 families processed
+94000 families processed
+95000 families processed
+96000 families processed
+97000 families processed
+98000 families processed
+99000 families processed
+100000 families processed
+101000 families processed
+102000 families processed
+103000 families processed
+104000 families processed
+105000 families processed
+106000 families processed
+107000 families processed
+108000 families processed
+109000 families processed
+110000 families processed
+111000 families processed
+112000 families processed
+113000 families processed
+114000 families processed
+115000 families processed
+116000 families processed
+117000 families processed
+118000 families processed
+119000 families processed
+120000 families processed
+121000 families processed
+122000 families processed
+123000 families processed
+124000 families processed
+125000 families processed
+126000 families processed
+127000 families processed
+128000 families processed
+129000 families processed
+130000 families processed
+131000 families processed
+132000 families processed
+133000 families processed
+134000 families processed
+135000 families processed
+136000 families processed
+137000 families processed
+138000 families processed
+139000 families processed
+140000 families processed
+141000 families processed
+142000 families processed
+143000 families processed
+144000 families processed
+145000 families processed
+146000 families processed
+147000 families processed
+148000 families processed
+149000 families processed
+150000 families processed
+151000 families processed
+152000 families processed
+153000 families processed
+154000 families processed
+155000 families processed
+156000 families processed
+157000 families processed
+158000 families processed
+159000 families processed
+160000 families processed
+161000 families processed
+162000 families processed
+163000 families processed
+164000 families processed
+165000 families processed
+166000 families processed
+167000 families processed
+168000 families processed
+169000 families processed
+170000 families processed
+171000 families processed
+172000 families processed
+173000 families processed
+174000 families processed
+175000 families processed
+176000 families processed
+177000 families processed
+178000 families processed
+179000 families processed
+180000 families processed
+181000 families processed
+182000 families processed
+183000 families processed
+184000 families processed
+185000 families processed
+186000 families processed
+187000 families processed
+188000 families processed
+189000 families processed
+190000 families processed
+191000 families processed
+192000 families processed
+193000 families processed
+194000 families processed
+195000 families processed
+196000 families processed
+197000 families processed
+198000 families processed
+199000 families processed
+200000 families processed
+201000 families processed
+202000 families processed
+203000 families processed
+204000 families processed
+205000 families processed
+206000 families processed
+207000 families processed
+208000 families processed
+209000 families processed
+210000 families processed
+211000 families processed
+212000 families processed
+213000 families processed
+214000 families processed
+215000 families processed
+216000 families processed
+217000 families processed
+218000 families processed
+219000 families processed
+220000 families processed
+221000 families processed
+222000 families processed
+223000 families processed
+224000 families processed
+225000 families processed
+226000 families processed
+227000 families processed
+228000 families processed
+229000 families processed
+230000 families processed
+231000 families processed
+232000 families processed
+233000 families processed
+234000 families processed
+235000 families processed
+236000 families processed
+237000 families processed
+238000 families processed
+239000 families processed
+240000 families processed
+241000 families processed
+242000 families processed
+243000 families processed
+244000 families processed
+245000 families processed
+246000 families processed
+247000 families processed
+248000 families processed
+249000 families processed
+250000 families processed
+251000 families processed
+252000 families processed
+253000 families processed
+254000 families processed
+255000 families processed
+256000 families processed
+257000 families processed
+258000 families processed
+259000 families processed
+260000 families processed
+261000 families processed
+262000 families processed
+263000 families processed
+264000 families processed
+265000 families processed
+266000 families processed
+267000 families processed
+268000 families processed
+269000 families processed
+270000 families processed
+271000 families processed
+272000 families processed
+273000 families processed
+274000 families processed
+
+numFound intersects:274620 out of 274620 families
+
+
+new Families:12554
+
+prepare auxiliary structures, familyToMap
+Completing the predicates of family:0
+Completing the predicates of family:1000
+Completing the predicates of family:2000
+Completing the predicates of family:3000
+Completing the predicates of family:4000
+Completing the predicates of family:5000
+Completing the predicates of family:6000
+Completing the predicates of family:7000
+Completing the predicates of family:8000
+Completing the predicates of family:9000
+Completing the predicates of family:10000
+Completing the predicates of family:11000
+Completing the predicates of family:12000
+Completing the predicates of family:13000
+Completing the predicates of family:14000
+Completing the predicates of family:15000
+Completing the predicates of family:16000
+Completing the predicates of family:17000
+Completing the predicates of family:18000
+Completing the predicates of family:19000
+Completing the predicates of family:20000
+Completing the predicates of family:21000
+Completing the predicates of family:22000
+Completing the predicates of family:23000
+Completing the predicates of family:24000
+Completing the predicates of family:25000
+Completing the predicates of family:26000
+Completing the predicates of family:27000
+Completing the predicates of family:28000
+Completing the predicates of family:29000
+Completing the predicates of family:30000
+Completing the predicates of family:31000
+Completing the predicates of family:32000
+Completing the predicates of family:33000
+Completing the predicates of family:34000
+Completing the predicates of family:35000
+Completing the predicates of family:36000
+Completing the predicates of family:37000
+Completing the predicates of family:38000
+Completing the predicates of family:39000
+Completing the predicates of family:40000
+Completing the predicates of family:41000
+Completing the predicates of family:42000
+Completing the predicates of family:43000
+Completing the predicates of family:44000
+Completing the predicates of family:45000
+Completing the predicates of family:46000
+Completing the predicates of family:47000
+Completing the predicates of family:48000
+Completing the predicates of family:49000
+Completing the predicates of family:50000
+Completing the predicates of family:51000
+Completing the predicates of family:52000
+Completing the predicates of family:53000
+Completing the predicates of family:54000
+Completing the predicates of family:55000
+Completing the predicates of family:56000
+Completing the predicates of family:57000
+Completing the predicates of family:58000
+Completing the predicates of family:59000
+Completing the predicates of family:60000
+Completing the predicates of family:61000
+Completing the predicates of family:62000
+Completing the predicates of family:63000
+Completing the predicates of family:64000
+Completing the predicates of family:65000
+Completing the predicates of family:66000
+Completing the predicates of family:67000
+Completing the predicates of family:68000
+Completing the predicates of family:69000
+Completing the predicates of family:70000
+Completing the predicates of family:71000
+Completing the predicates of family:72000
+Completing the predicates of family:73000
+Completing the predicates of family:74000
+Completing the predicates of family:75000
+Completing the predicates of family:76000
+Completing the predicates of family:77000
+Completing the predicates of family:78000
+Completing the predicates of family:79000
+Completing the predicates of family:80000
+Completing the predicates of family:81000
+Completing the predicates of family:82000
+Completing the predicates of family:83000
+Completing the predicates of family:84000
+Completing the predicates of family:85000
+Completing the predicates of family:86000
+Completing the predicates of family:87000
+Completing the predicates of family:88000
+Completing the predicates of family:89000
+Completing the predicates of family:90000
+Completing the predicates of family:91000
+Completing the predicates of family:92000
+Completing the predicates of family:93000
+Completing the predicates of family:94000
+Completing the predicates of family:95000
+Completing the predicates of family:96000
+Completing the predicates of family:97000
+Completing the predicates of family:98000
+Completing the predicates of family:99000
+Completing the predicates of family:100000
+Completing the predicates of family:101000
+Completing the predicates of family:102000
+Completing the predicates of family:103000
+Completing the predicates of family:104000
+Completing the predicates of family:105000
+Completing the predicates of family:106000
+Completing the predicates of family:107000
+Completing the predicates of family:108000
+Completing the predicates of family:109000
+Completing the predicates of family:110000
+Completing the predicates of family:111000
+Completing the predicates of family:112000
+Completing the predicates of family:113000
+Completing the predicates of family:114000
+Completing the predicates of family:115000
+Completing the predicates of family:116000
+Completing the predicates of family:117000
+Completing the predicates of family:118000
+Completing the predicates of family:119000
+Completing the predicates of family:120000
+Completing the predicates of family:121000
+Completing the predicates of family:122000
+Completing the predicates of family:123000
+Completing the predicates of family:124000
+Completing the predicates of family:125000
+Completing the predicates of family:126000
+Completing the predicates of family:127000
+Completing the predicates of family:128000
+Completing the predicates of family:129000
+Completing the predicates of family:130000
+Completing the predicates of family:131000
+Completing the predicates of family:132000
+Completing the predicates of family:133000
+Completing the predicates of family:134000
+Completing the predicates of family:135000
+Completing the predicates of family:136000
+Completing the predicates of family:137000
+Completing the predicates of family:138000
+Completing the predicates of family:139000
+Completing the predicates of family:140000
+Completing the predicates of family:141000
+Completing the predicates of family:142000
+Completing the predicates of family:143000
+Completing the predicates of family:144000
+Completing the predicates of family:145000
+Completing the predicates of family:146000
+Completing the predicates of family:147000
+Completing the predicates of family:148000
+Completing the predicates of family:149000
+Completing the predicates of family:150000
+Completing the predicates of family:151000
+Completing the predicates of family:152000
+Completing the predicates of family:153000
+Completing the predicates of family:154000
+Completing the predicates of family:155000
+Completing the predicates of family:156000
+Completing the predicates of family:157000
+Completing the predicates of family:158000
+Completing the predicates of family:159000
+Completing the predicates of family:160000
+Completing the predicates of family:161000
+Completing the predicates of family:162000
+Completing the predicates of family:163000
+Completing the predicates of family:164000
+Completing the predicates of family:165000
+Completing the predicates of family:166000
+Completing the predicates of family:167000
+Completing the predicates of family:168000
+Completing the predicates of family:169000
+Completing the predicates of family:170000
+Completing the predicates of family:171000
+Completing the predicates of family:172000
+Completing the predicates of family:173000
+Completing the predicates of family:174000
+Completing the predicates of family:175000
+Completing the predicates of family:176000
+Completing the predicates of family:177000
+Completing the predicates of family:178000
+Completing the predicates of family:179000
+Completing the predicates of family:180000
+Completing the predicates of family:181000
+Completing the predicates of family:182000
+Completing the predicates of family:183000
+Completing the predicates of family:184000
+Completing the predicates of family:185000
+Completing the predicates of family:186000
+Completing the predicates of family:187000
+Completing the predicates of family:188000
+Completing the predicates of family:189000
+Completing the predicates of family:190000
+Completing the predicates of family:191000
+Completing the predicates of family:192000
+Completing the predicates of family:193000
+Completing the predicates of family:194000
+Completing the predicates of family:195000
+Completing the predicates of family:196000
+Completing the predicates of family:197000
+Completing the predicates of family:198000
+Completing the predicates of family:199000
+Completing the predicates of family:200000
+Completing the predicates of family:201000
+Completing the predicates of family:202000
+Completing the predicates of family:203000
+Completing the predicates of family:204000
+Completing the predicates of family:205000
+Completing the predicates of family:206000
+Completing the predicates of family:207000
+Completing the predicates of family:208000
+Completing the predicates of family:209000
+Completing the predicates of family:210000
+Completing the predicates of family:211000
+Completing the predicates of family:212000
+Completing the predicates of family:213000
+Completing the predicates of family:214000
+Completing the predicates of family:215000
+Completing the predicates of family:216000
+Completing the predicates of family:217000
+Completing the predicates of family:218000
+Completing the predicates of family:219000
+Completing the predicates of family:220000
+Completing the predicates of family:221000
+Completing the predicates of family:222000
+Completing the predicates of family:223000
+Completing the predicates of family:224000
+Completing the predicates of family:225000
+Completing the predicates of family:226000
+Completing the predicates of family:227000
+Completing the predicates of family:228000
+Completing the predicates of family:229000
+Completing the predicates of family:230000
+Completing the predicates of family:231000
+Completing the predicates of family:232000
+Completing the predicates of family:233000
+Completing the predicates of family:234000
+Completing the predicates of family:235000
+Completing the predicates of family:236000
+Completing the predicates of family:237000
+Completing the predicates of family:238000
+Completing the predicates of family:239000
+Completing the predicates of family:240000
+Completing the predicates of family:241000
+Completing the predicates of family:242000
+Completing the predicates of family:243000
+Completing the predicates of family:244000
+Completing the predicates of family:245000
+Completing the predicates of family:246000
+Completing the predicates of family:247000
+Completing the predicates of family:248000
+Completing the predicates of family:249000
+Completing the predicates of family:250000
+Completing the predicates of family:251000
+Completing the predicates of family:252000
+Completing the predicates of family:253000
+Completing the predicates of family:254000
+Completing the predicates of family:255000
+Completing the predicates of family:256000
+Completing the predicates of family:257000
+Completing the predicates of family:258000
+Completing the predicates of family:259000
+Completing the predicates of family:260000
+Completing the predicates of family:261000
+Completing the predicates of family:262000
+Completing the predicates of family:263000
+Completing the predicates of family:264000
+Completing the predicates of family:265000
+Completing the predicates of family:266000
+Completing the predicates of family:267000
+Completing the predicates of family:268000
+Completing the predicates of family:269000
+Completing the predicates of family:270000
+Completing the predicates of family:271000
+Completing the predicates of family:272000
+Completing the predicates of family:273000
+Completing the predicates of family:274000
+do a first pass to compute the exact stats of the number of triples and decide if a family is not materialized
+100000 triples
+200000 triples
+300000 triples
+400000 triples
+500000 triples
+600000 triples
+700000 triples
+800000 triples
+900000 triples
+1000000 triples
+1100000 triples
+1200000 triples
+1300000 triples
+1400000 triples
+1500000 triples
+1600000 triples
+1700000 triples
+1800000 triples
+1900000 triples
+2000000 triples
+2100000 triples
+2200000 triples
+2300000 triples
+2400000 triples
+2500000 triples
+2600000 triples
+2700000 triples
+2800000 triples
+2900000 triples
+3000000 triples
+3100000 triples
+3200000 triples
+3300000 triples
+3400000 triples
+3500000 triples
+3600000 triples
+3700000 triples
+3800000 triples
+3900000 triples
+4000000 triples
+4100000 triples
+4200000 triples
+4300000 triples
+4400000 triples
+4500000 triples
+4600000 triples
+4700000 triples
+4800000 triples
+4900000 triples
+5000000 triples
+5100000 triples
+5200000 triples
+5300000 triples
+5400000 triples
+5500000 triples
+5600000 triples
+5700000 triples
+5800000 triples
+5900000 triples
+6000000 triples
+6100000 triples
+6200000 triples
+6300000 triples
+6400000 triples
+6500000 triples
+6600000 triples
+6700000 triples
+6800000 triples
+6900000 triples
+7000000 triples
+7100000 triples
+7200000 triples
+7300000 triples
+7400000 triples
+7500000 triples
+7600000 triples
+7700000 triples
+7800000 triples
+7900000 triples
+8000000 triples
+8100000 triples
+8200000 triples
+8300000 triples
+8400000 triples
+8500000 triples
+8600000 triples
+8700000 triples
+8800000 triples
+8900000 triples
+9000000 triples
+9100000 triples
+9200000 triples
+9300000 triples
+9400000 triples
+9500000 triples
+9600000 triples
+9700000 triples
+9800000 triples
+9900000 triples
+10000000 triples
+10100000 triples
+10200000 triples
+10300000 triples
+10400000 triples
+10500000 triples
+10600000 triples
+10700000 triples
+10800000 triples
+10900000 triples
+11000000 triples
+11100000 triples
+11200000 triples
+11300000 triples
+11400000 triples
+11500000 triples
+11600000 triples
+11700000 triples
+11800000 triples
+11900000 triples
+12000000 triples
+12100000 triples
+12200000 triples
+12300000 triples
+12400000 triples
+12500000 triples
+12600000 triples
+12700000 triples
+12800000 triples
+12900000 triples
+13000000 triples
+13100000 triples
+13200000 triples
+13300000 triples
+13400000 triples
+13500000 triples
+13600000 triples
+13700000 triples
+13800000 triples
+13900000 triples
+14000000 triples
+14100000 triples
+14200000 triples
+14300000 triples
+14400000 triples
+14500000 triples
+14600000 triples
+14700000 triples
+14800000 triples
+14900000 triples
+15000000 triples
+15100000 triples
+15200000 triples
+15300000 triples
+15400000 triples
+15500000 triples
+15600000 triples
+15700000 triples
+15800000 triples
+15900000 triples
+16000000 triples
+16100000 triples
+16200000 triples
+16300000 triples
+16400000 triples
+16500000 triples
+16600000 triples
+16700000 triples
+16800000 triples
+16900000 triples
+17000000 triples
+17100000 triples
+17200000 triples
+17300000 triples
+17400000 triples
+17500000 triples
+17600000 triples
+17700000 triples
+17800000 triples
+17900000 triples
+18000000 triples
+18100000 triples
+18200000 triples
+18300000 triples
+18400000 triples
+18500000 triples
+18600000 triples
+18700000 triples
+18800000 triples
+18900000 triples
+19000000 triples
+19100000 triples
+19200000 triples
+19300000 triples
+19400000 triples
+19500000 triples
+19600000 triples
+19700000 triples
+19800000 triples
+19900000 triples
+20000000 triples
+20100000 triples
+20200000 triples
+20300000 triples
+20400000 triples
+20500000 triples
+20600000 triples
+20700000 triples
+20800000 triples
+20900000 triples
+21000000 triples
+21100000 triples
+21200000 triples
+21300000 triples
+21400000 triples
+21500000 triples
+21600000 triples
+21700000 triples
+21800000 triples
+21900000 triples
+22000000 triples
+22100000 triples
+22200000 triples
+22300000 triples
+22400000 triples
+22500000 triples
+22600000 triples
+22700000 triples
+22800000 triples
+22900000 triples
+23000000 triples
+23100000 triples
+23200000 triples
+23300000 triples
+23400000 triples
+23500000 triples
+23600000 triples
+23700000 triples
+23800000 triples
+23900000 triples
+24000000 triples
+24100000 triples
+24200000 triples
+24300000 triples
+24400000 triples
+24500000 triples
+24600000 triples
+24700000 triples
+24800000 triples
+24900000 triples
+25000000 triples
+25100000 triples
+25200000 triples
+25300000 triples
+25400000 triples
+25500000 triples
+25600000 triples
+25700000 triples
+25800000 triples
+25900000 triples
+26000000 triples
+26100000 triples
+26200000 triples
+26300000 triples
+26400000 triples
+26500000 triples
+26600000 triples
+26700000 triples
+26800000 triples
+26900000 triples
+27000000 triples
+27100000 triples
+27200000 triples
+27300000 triples
+27400000 triples
+27500000 triples
+27600000 triples
+27700000 triples
+27800000 triples
+27900000 triples
+28000000 triples
+28100000 triples
+28200000 triples
+28300000 triples
+28400000 triples
+28500000 triples
+28600000 triples
+28700000 triples
+28800000 triples
+28900000 triples
+29000000 triples
+29100000 triples
+29200000 triples
+29300000 triples
+29400000 triples
+29500000 triples
+29600000 triples
+29700000 triples
+29800000 triples
+29900000 triples
+30000000 triples
+30100000 triples
+30200000 triples
+30300000 triples
+30400000 triples
+30500000 triples
+30600000 triples
+30700000 triples
+30800000 triples
+30900000 triples
+31000000 triples
+31100000 triples
+31200000 triples
+31300000 triples
+31400000 triples
+31500000 triples
+31600000 triples
+31700000 triples
+31800000 triples
+31900000 triples
+32000000 triples
+32100000 triples
+32200000 triples
+32300000 triples
+32400000 triples
+32500000 triples
+32600000 triples
+32700000 triples
+32800000 triples
+32900000 triples
+33000000 triples
+33100000 triples
+33200000 triples
+33300000 triples
+33400000 triples
+33500000 triples
+33600000 triples
+33700000 triples

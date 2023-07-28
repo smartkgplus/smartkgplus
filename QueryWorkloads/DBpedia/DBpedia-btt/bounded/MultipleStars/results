@@ -1,0 +1,27 @@
+Q16:
+TPF: 1 results in 0.3 sec
+SaGe: 1 results in 0.145 s	
+SmartKG: 0.7
+SmartKG++: 1.8s
+[2 stars, high selective]
+======================================
+Q17:
+TPF: 0 RESULTS in timeout
+SaGE: 166 results in 10.384 s	
+SmartKG: timeout.
+SmartKG++: 11.2
+[ 2 stars, low selectivity]
+======================================
+Q18:
+TPF: 1 result in 0.7s
+SaGE: 1 results in 0.131 s	
+SmartKG: 1 results in 0.8s
+SmartKG++:1.7s
+[ 1 star, selective]
+======================================
+Q19:
+TPF: 167 results in 132.9s
+SaGe: 167 resutlts in 2.646 s	 
+SmartKG: 90s
+SmartKG++:  8.0 sec
+[3 stars, 1 tp]

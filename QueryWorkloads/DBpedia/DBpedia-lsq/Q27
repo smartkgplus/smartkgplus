@@ -1,0 +1,6 @@
+SELECT *
+WHERE{
+?s <http://dbpedia.org/ontology/numberOfGoals> ?goals .
+?s <http://dbpedia.org/ontology/numberOfMatches> ?matches .
+?s <http://dbpedia.org/ontology/years> ?years .
+}

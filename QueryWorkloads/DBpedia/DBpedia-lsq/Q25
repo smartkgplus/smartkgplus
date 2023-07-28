@@ -1,0 +1,5 @@
+SELECT * WHERE { 
+?s1 <http://www.w3.org/2004/02/skos/core#broader> ?s2 . 
+?s3 <http://www.w3.org/2004/02/skos/core#broader> ?s1 . 
+?s4 <http://www.w3.org/2004/02/skos/core#broader> ?s3 .
+}

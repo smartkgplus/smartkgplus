@@ -1,0 +1,9 @@
+SELECT *
+WHERE{
+?s <http://dbpedia.org/ontology/isPartOf> ?part .
+?s <http://dbpedia.org/ontology/populationTotal> ?pop .
+?s <http://dbpedia.org/property/coordinatesDisplay> ?coord .
+?s <http://dbpedia.org/property/populationDensityKm> ?popdens .
+?s <http://dbpedia.org/property/populationTotal> ?popTotal .
+?s <http://dbpedia.org/property/settlementType> ?type .
+}

@@ -1,0 +1,1 @@
+/home/fernandez/smartKG-creator-types/hdt-cpp-molecules/libhdt/tools/.libs/getFamilies: invalid option -- 'C'

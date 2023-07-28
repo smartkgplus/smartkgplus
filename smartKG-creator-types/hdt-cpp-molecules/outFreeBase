@@ -1,0 +1,17 @@
+Stats
+
+Total predicates: 770415
+Infrequent predicates (less than 0) : 0
+
+Min subject group size, more than 10200
+
+Total triples: 2067068155
+tau_l min pred:0.01
+tau_h max pred:1.1
+subj Number of families:2657371
+   - Get the families with at least 10200 subjects
+Subject cut in %:0.01
+Number of families:479
+  - With Subject cut, these families are present in >= 10200 (0.01 percent of the subjects)
+
+Full estimate...

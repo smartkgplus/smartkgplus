@@ -1,0 +1,12 @@
+ PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  dbpr: <http://dbpedia.org/resource/>
+
+SELECT DISTINCT  ?uri
+WHERE
+  { ?film  rdf:type       dbpo:Film ;
+           dbpo:country   dbpr:Spain ;
+           dbpo:producer  dbpr:Benicio_del_Toro ;
+           dbpo:starring  ?uri .
+    ?uri   rdf:type       dbpo:Person.
+  }

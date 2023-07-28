@@ -1,0 +1,10 @@
+SELECT *
+WHERE{
+?s <http://dbpedia.org/ontology/country> ?country .
+?s <http://dbpedia.org/ontology/populationTotal> ?pop .
+?s <http://dbpedia.org/property/nativeName> ?nativName .
+?s <http://dbpedia.org/property/officialName> ?offName .
+?s <http://dbpedia.org/property/populationAsOf> ?popAs .
+?s <http://dbpedia.org/property/populationTotal> ?popTotal .
+}
+

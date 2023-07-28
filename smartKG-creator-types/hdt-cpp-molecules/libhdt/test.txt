@@ -1,0 +1,16 @@
+ERROR: Unknown option
+$ getFamilies [options] <hdtfile> 
+	-h			This help
+	-v			Verbose, show results (warning: will print all triples, use for test only)
+	-e <exportFile>	Export metadata of families in <exportFile>.json and the groups in <exportFile>_group.json
+	-s <splitFilePrefix>	Split triples by families in <splitFilePrefix.json>
+	-i			Include infrequent predicates, i.e. less than 0.01 % occurrences (it will create more partitions). False by default
+	-L <percentage>			 Setup the percentage for infrequent predicates in % occurrences (the more, the less partitions).
+	-H <percentage>			 Setup the percentage to cut massive predicates in % occurrences (the more, the more partitions).
+	-c			Cut the massive predicates, i.e. >= than 0.1 % occurrences (it will create huge partitions). False by default
+	-d			Dump the infrequent predicates in a dedicated JSON file (_infreqPreds.json)
+	-u			 Ungroup, i.e. do not group predicates. We group predicates by default
+	-S			 Group with a minimum number of subjects (0.01%). We don't apply this filter by default, but it is recommended for very unstructure datasets (e.g. dbpedia)
+	-P <percentage>			 Setup the percentage for allowing groups with a minimum number of subjects (0.01% by default). -S option must be activated
+	-m			 max size to allow for a creation of a new group, in % of the total number of triples. E.g. with -m 5, it will create a group if the total estimated size is less than 5% the number of triples. Use -m 100 to allow all
+	-G			export the group in a separate JSON file

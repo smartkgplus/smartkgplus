@@ -1,0 +1,11 @@
+  PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT DISTINCT  ?s
+WHERE
+  { ?s  rdf:type        dbpo:Airport ;
+        dbpo:elevation  ?o
+    FILTER ( ?o IN ("467.258"^^xsd:double, "467.0"^^xsd:double) )
+  }
+ORDER BY DESC(<LONG::IRI_RANK>(?s))

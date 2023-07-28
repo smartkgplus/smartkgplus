@@ -1,0 +1,11 @@
+PREFIX lsqv: <http://lsq.aksw.org/vocab#> 
+SELECT count(?text)
+WHERE { 
+  
+    ?query lsqv:text ?text.
+    ?query lsqv:hasStructuralFeatures ?features .
+    ?features lsqv:tpCount ?tpCount .
+
+    FILTER ( regex(?text, "type") && ?tpCount >= 2) .
+
+}

@@ -1,0 +1,10 @@
+PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT  ?type
+WHERE
+  { ?y  dbpo:wikiPageID  198154 ;
+        rdf:type         ?type
+    FILTER strstarts(str(?type), "http://dbpedia.org/ontology")
+  }

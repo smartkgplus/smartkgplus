@@ -1,0 +1,30 @@
+Q11:
+TPF: 0 results in 0.2 sec
+SaGe:0 results in 0.7 sec
+SmartKG: 0 results in 0.8 sec
+SmartKG++:  0 results in 1.2s
+[1 star, 1TP, high seletive]
+====================================
+TPF: 84 results in 257.0s
+SaGe: 2.328 s	
+SMARTKG: 260.0
+smartKG++: 76.0 s
+[1 star, 3 single patterns]
+====================================
+TPF:  timeout
+SaGE: 8.49 s	
+SmartKG: timeout
+SMARTKG++: 7.8s
+[ 1 star, 1 TP, low selectivity]
+====================================
+TPF: 0 RESULTS in timeout
+SaGE: 0 results in timeout
+SmartKG: timeout
+SmartKG++:  15 sec
+[1 star, 2 tps, not selective]
+====================================
+TPF: 1 result in 0.4s
+SaGE: 1 results 0.224 s	
+SmartKG: 1.2s
+SmartKG++: 4.0s
+[1 star, 1 tp]

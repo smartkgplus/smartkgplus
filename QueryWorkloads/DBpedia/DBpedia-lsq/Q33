@@ -1,0 +1,8 @@
+SELECT *
+WHERE{
+?s <http://dbpedia.org/ontology/kingdom> ?k .
+?s <http://dbpedia.org/ontology/phylum> ?p .
+?s <http://dbpedia.org/property/binomial> ?b .
+?s <http://dbpedia.org/property/genus> ?g .
+?s <http://dbpedia.org/property/regnum> ?r.
+}

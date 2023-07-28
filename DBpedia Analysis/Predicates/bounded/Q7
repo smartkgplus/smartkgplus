@@ -1,0 +1,19 @@
+PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX  rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  dbprop: <http://dbpedia.org/property/>
+
+SELECT DISTINCT  ?movieName ?abstract ?genre ?releaseDate
+WHERE
+  { ?film  rdf:type       dbpo:Film ;
+           rdfs:label     ?movieName ;
+           dbpo:abstract  ?abstract ;
+           dbprop:genre   ?genre ;
+           dbprop:date    ?releaseDate
+    FILTER ( lang(?movieName) = "en" )
+    FILTER ( lang(?abstract) = "en" )
+    FILTER ( ?releaseDate > "2014"^^xsd:dateTime )
+  }
+ORDER BY DESC(?releaseDate)
+LIMIT   10

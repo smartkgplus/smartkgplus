@@ -1,0 +1,6 @@
+SELECT  *
+WHERE
+  { ?Player <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Orlando_Magic> .
+    ?Player <http://dbpedia.org/ontology/termPeriod> ?PlayerTermPeriod .
+    ?Player <http://www.w3.org/2000/01/rdf-schema#label> ?Label
+  }

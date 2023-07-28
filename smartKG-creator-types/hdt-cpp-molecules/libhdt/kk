@@ -1,0 +1,101 @@
+
+Total predicates: 60264
+Infrequent predicates (less than 83725) : 59995
+
+Max group size, less than 41862897
+
+Min subject group size, more than 11398
+
+http://dbpedia.org/ontology/Place
+27643485
+http://dbpedia.org/ontology/Person
+27643480
+Filter classes:
+27643480
+27643485
+id type:60230
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+10000000 triples
+20000000 triples
+30000000 triples
+40000000 triples
+50000000 triples
+60000000 triples
+70000000 triples
+80000000 triples
+90000000 triples
+100000000 triples
+110000000 triples
+120000000 triples
+130000000 triples
+140000000 triples
+150000000 triples
+160000000 triples
+170000000 triples
+180000000 triples
+190000000 triples
+200000000 triples
+210000000 triples
+220000000 triples
+230000000 triples
+240000000 triples
+250000000 triples
+260000000 triples
+270000000 triples
+280000000 triples
+290000000 triples
+300000000 triples
+310000000 triples
+320000000 triples
+330000000 triples
+340000000 triples
+350000000 triples
+360000000 triples
+370000000 triples
+380000000 triples
+390000000 triples
+400000000 triples
+410000000 triples
+420000000 triples
+430000000 triples
+440000000 triples
+450000000 triples
+460000000 triples
+470000000 triples
+480000000 triples
+490000000 triples
+500000000 triples
+510000000 triples
+520000000 triples
+530000000 triples
+540000000 triples
+550000000 triples
+560000000 triples
+570000000 triples
+580000000 triples
+590000000 triples
+600000000 triples
+610000000 triples
+620000000 triples
+630000000 triples
+640000000 triples
+650000000 triples
+660000000 triples
+670000000 triples
+680000000 triples
+690000000 triples
+700000000 triples
+710000000 triples
+720000000 triples
+730000000 triples
+740000000 triples
+750000000 triples
+760000000 triples
+770000000 triples
+780000000 triples
+790000000 triples
+800000000 triples
+810000000 triples
+820000000 triples
+830000000 triples
+ Number of families:14038

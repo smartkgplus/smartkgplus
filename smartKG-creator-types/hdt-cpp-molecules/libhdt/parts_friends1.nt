@@ -1,0 +1,17 @@
+<http://dbpedia.org/resource/Chandler_Bing> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Statistical_inference> .
+<http://dbpedia.org/resource/Chandler_Bing> <http://dbpedia.org/ontology/portrayer> <http://dbpedia.org/resource/Matthew_Perry> .
+<http://dbpedia.org/resource/Chandler_Bing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Chandler_Bing> <http://www.w3.org/2000/01/rdf-schema#label> "Chandler Bing"@en .
+<http://dbpedia.org/resource/Rachel_Green> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Senior_management> .
+<http://dbpedia.org/resource/Rachel_Green> <http://dbpedia.org/ontology/portrayer> <http://dbpedia.org/resource/Jennifer_Aniston> .
+<http://dbpedia.org/resource/Rachel_Green> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Rachel_Green> <http://www.w3.org/2000/01/rdf-schema#label> "Rachel Green"@en .
+<http://dbpedia.org/resource/Joey_Tribbiani> <http://dbpedia.org/ontology/occupation> "Actor"@en .
+<http://dbpedia.org/resource/Joey_Tribbiani> <http://dbpedia.org/ontology/portrayer> <http://dbpedia.org/resource/Matt_LeBlanc> .
+<http://dbpedia.org/resource/Joey_Tribbiani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Joey_Tribbiani> <http://www.w3.org/2000/01/rdf-schema#label> "Joey_Tribbiani"@en .
+<http://dbpedia.org/resource/Phoebe_Buffay> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Massage> .
+<http://dbpedia.org/resource/Phoebe_Buffay> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Musician> .
+<http://dbpedia.org/resource/Phoebe_Buffay> <http://dbpedia.org/ontology/portrayer> <http://dbpedia.org/resource/Lisa_Kudrow> .
+<http://dbpedia.org/resource/Phoebe_Buffay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Phoebe_Buffay> <http://www.w3.org/2000/01/rdf-schema#label> "Phoebe Buffay"@en .

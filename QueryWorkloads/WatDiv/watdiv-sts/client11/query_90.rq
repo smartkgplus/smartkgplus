@@ -1,0 +1,1 @@
+SELECT * WHERE {  <http://db.uwaterloo.ca/~galuc/wsdbm/Product8725> <http://ogp.me/ns#title> ?v1 .  }

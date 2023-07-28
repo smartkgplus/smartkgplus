@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Ross_Geller> <http://dbpedia.org/ontology/birthDate> "1969-10-18" .
+<http://dbpedia.org/resource/Ross_Geller> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Paleontology> .
+<http://dbpedia.org/resource/Ross_Geller> <http://dbpedia.org/ontology/portrayer> <http://dbpedia.org/resource/David_Schwimmer> .
+<http://dbpedia.org/resource/Ross_Geller> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Rachel_Green> .
+<http://dbpedia.org/resource/Ross_Geller> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Doctor_of_Philosophy> .
+<http://dbpedia.org/resource/Ross_Geller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Ross_Geller> <http://www.w3.org/2000/01/rdf-schema#label> "Ross Geller"@en .

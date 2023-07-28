@@ -1,0 +1,27 @@
+Q7: 
+TPF:  18 results in 161.9s
+SaGe: 18 results in 1.17s[ 4 clients -> timesout]
+SMARTKG:  18 results in 161.9s
+SMARTKG++: 18 results in 7.0 sec
+[1 star, not selective]
+================================================
+Q8:
+TPF: ~10,558 results in timeout
+SaGe: ~702200 results in timeout
+SmartKG: timeout.
+SmartKG++: 70s
+[1 star, low selectivity]
+================================================
+Q9:
+TPF: ~10,558 results in timeout
+SaGe: ~702200 results in timeout
+SmartKG: timeout.
+SmartKG++: 70s
+[1 star, low selectivity]
+================================================
+Q10:
+TPF: 2 results in 282.7s
+SaGE: 2 results in 14.398 s
+SmartKG: 392.7s
+SmartKG++: 20.4
+[1 star, not selective]

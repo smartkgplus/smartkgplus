@@ -1,0 +1,1 @@
+SELECT * WHERE {  ?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> <http://db.uwaterloo.ca/~galuc/wsdbm/Product12799> .  ?v0 <http://schema.org/nationality> ?v1 .  ?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/gender> ?v2 .  }

@@ -1,0 +1,14 @@
+PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  dbprop: <http://dbpedia.org/property/>
+
+SELECT  ?Place ?City
+WHERE
+  { ?Place  rdf:type              dbpo:PopulatedPlace ;
+            dbprop:officialName   ?City;
+            dbprop:country        ?Country;
+           dbpo:populationTotal  ?Population.
+    FILTER regex(?City, "Newquay")
+  }
+  

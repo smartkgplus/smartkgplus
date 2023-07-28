@@ -1,0 +1,10 @@
+SELECT *
+WHERE{
+?s <http://dbpedia.org/ontology/country> ?country .
+?s <http://dbpedia.org/ontology/elevation> ?elevation .
+?s <http://dbpedia.org/ontology/populationTotal> ?population .
+?s <http://dbpedia.org/ontology/postalCode> ?postal .
+?s <http://dbpedia.org/property/region> ?region .
+?s <http://www.w3.org/2003/01/geo/wgs84_pos#lat> ?lat .
+?s <http://www.w3.org/2003/01/geo/wgs84_pos#long> ?long .
+}

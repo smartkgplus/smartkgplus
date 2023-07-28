@@ -1,0 +1,9 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX onto: <http://ontoTestFilms#> 
+PREFIX annot: <http://annotFilms#> 
+PREFIX base: <http://ontoTestFilms> 
+PREFIX dbpedia: <http://dbpedia.org/ontology/>  
+SELECT ?b ?c WHERE { ?b rdf:type dbpedia:Artist. ?c rdf:type <http://dbpedia.org/ontology/Work>. ?c dbpedia:starring <http://dbpedia.org/resource/George_Harrison>. ?c dbpedia:starring ?b. }

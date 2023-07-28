@@ -1,0 +1,13 @@
+PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  dbpr: <http://dbpedia.org/resource/>
+
+SELECT DISTINCT  ?mountain ?elevation
+WHERE
+  { ?mountain  dbpo:elevation  ?elevation ;
+              rdf:type        dbpo:Mountain .
+    dbpr:Annapurna
+              dbpo:elevation  ?anna
+    FILTER ( ?elevation < ?anna )
+  }
+ORDER BY DESC(?elevation)

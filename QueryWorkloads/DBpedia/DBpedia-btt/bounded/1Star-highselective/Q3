@@ -1,0 +1,14 @@
+PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX  rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX  dbpo: <http://dbpedia.org/ontology/>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  dbprop: <http://dbpedia.org/property/>
+
+SELECT DISTINCT  ?country_name ?population
+WHERE
+  { ?country  rdf:type              dbpo:Country ;
+              rdfs:label            ?country_name ;
+              dbprop:populationTotal  ?population
+    FILTER ( ?population > 3000000 )
+  }
+ 

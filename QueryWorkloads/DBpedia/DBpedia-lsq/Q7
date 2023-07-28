@@ -1,0 +1,6 @@
+SELECT  *
+WHERE
+  { ?e  <http://dbpedia.org/ontology/series>  <http://dbpedia.org/resource/The_Sopranos> ;
+        <http://dbpedia.org/ontology/releaseDate>  ?date ;
+        <http://dbpedia.org/ontology/episodeNumber>  ?number
+  }

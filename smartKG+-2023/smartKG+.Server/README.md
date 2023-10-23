@@ -1,4 +1,4 @@
-# WiseKG Server Implementation
+# smartKGplus Server Implementation
 This repository contains the server implementation of the WiseKG as an extension of the TPF server.
 
 # Linked Data Fragments Server <img src="http://linkeddatafragments.org/images/logo.svg" width="100" align="right" alt="" />

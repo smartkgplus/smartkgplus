@@ -1,5 +1,5 @@
-# WiseKG-client
-A multi-threaded WiseKG client written in Java 8.
+# smartKGplus-client
+A multi-threaded smartKGplus client written in Java 8.
 
 ## Build
 Execute the following command to create a JAR file:
@@ -20,5 +20,3 @@ java -jar [filename].jar -t true [Starting Fragment] [query directory] [method] 
 ```
 
 In the [output directory], there must be one subdirectory per query load entitled [load].
-
-The full test setup used in the paper will be available on [https://github.com/WiseKG/WiseKG-Experiments](https://github.com/WiseKG/WiseKG-Experiments).

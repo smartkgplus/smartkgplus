@@ -20,7 +20,8 @@ We have developed smartkgplus based on WiseKG implementation. First, on creating
 
 In the following, we will show how can you reproduce the three aforementioned configurations:
 
-1)  TPF+OP: This is our first implementation of smartKG. You can find the implementation in this code repository: https://git.ai.wu.ac.at/beno/smartkg
+1)  TPF+OP: This is our first implementation of smartKG. You can find the implementation in this code repository: https://git.ai.wu.ac.at/beno/smartkg.
+
 2-3)  TPF+NP and brTPF+NP - The WiseKG implementation supports both TPF and brTPF and we can use either of the implementations by changing the request. In the following, we refer to this part of the implementation:
     - On the server-side, we have implemented LinkedDataFragmentServlet.java to receive the request and decide whether it is a TPF or brTPF according to request.getParameter("triples") which checks if there are bindings in the request or not (line 265 - line 285).
   

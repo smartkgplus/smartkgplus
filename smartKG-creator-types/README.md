@@ -53,7 +53,7 @@ percentage is set to αs = 0.01. To modify this value, users need to invoke the 
 -d: This argument dumps infrequent predicates into a dedicated JSON file with the prefix "_infreqPreds". Infrequent predicates are defined by Equation (21).
 
 -u: ungroup – This argument performs family partitioning without the grouping step, which generates partitions based solely on the original families defined in
-Equations 4.2 and 4.3.
+Equations (7) and (8).
 
 -G: This argument exports each family into a separate JSON file.
 
@@ -63,5 +63,42 @@ Equations 4.2 and 4.3.
 
 # How to generate the partitions used in the experiments:
 
+For the following datasets, we only applied the pruning strategies of restricting the infrequent predicates. All classes were materialized. We allowed to generate all possible groupings since the number of partitions is manageable as we have shown in Table 5 and 12.
 
+Watdiv10M:
+./hdt-cpp-molecules/libhdt/tools/getFamilies  -s part_Watdiv10M_  -C Watdiv10M_classes_filtered.txt -m 100 -e Watdiv10M  Watdiv10M.hdt
+
+Watdiv100M:
+./hdt-cpp-molecules/libhdt/tools/getFamilies  -s part_Watdiv100M_  -C Watdiv100M_classes_filtered.txt -m 100 -e Watdiv100M  Watdiv100M.hdt
+
+Watdiv1000M:
+./hdt-cpp-molecules/libhdt/tools/getFamilies  -s part_Watdiv1000M_  -C Watdiv1000M_classes_filtered.txt -m 100 -e Watdiv1000M  Watdiv1000M.hdt
+
+wordNet:
+./hdt-cpp-molecules/libhdt/tools/getFamilies  -s part_WordNet_  -C wordnet_classes_filtered.txt -m 100 -e wordnet wordnet31.hdt
+
+Geonames:
+./hdt-cpp-molecules/libhdt/tools/getFamilies  -s part_geonames_  -C geonames_classes_filtered.txt -m 100 -e geonames geonames-11-11-2012.hdt
+
+DBLP:
+./hdt-cpp-molecules/libhdt/tools/getFamilies  -s part_dblp_  -C dblp_classes_filtered.txt -m 100 -e dblp dblp-20170124.hdt
+
+
+For the following datasets, we applied a more restrictive pruning strategy to control the number of generated partitions:
+
+Freebase:
+./hdt-cpp-molecules/libhdt/tools/getFamilies -s part_freebase_ -C freebase_classes_filtered.txt -L 1 -H 10 -m 10 -c -e freebase  freebase-rdf-2013-12-01-00-00.hdt
+
+Yago2:
+./hdt-cpp-molecules/libhdt/tools/getFamilies -s part_yago_ -C yago_classes_filtered.txt -L 1 -H 10 -m 10 -c -e yago  yago2s-2013-05-08.hdt
+
+DBpedia:
+
+./hdt-cpp-molecules/libhdt/tools/getFamilies -s part_dbpedia_ -C dbpedia_classes_filtered.txt -L 1 -H 10 -m 10 -c -e dbpedia  dbpedia2016-04en.hdt
+
+
+# How to find the partitions that we have used in the experiments:
+
+You can download all the partitions directly that we have used in our experiments from the following link: 
+  DataPartitions: https://smartkg-data.cluster.ai.wu.ac.at/
 

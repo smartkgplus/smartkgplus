@@ -26,7 +26,9 @@ This folder contains all the query workloads that have been described in Table 4
 
 ## Experiments <a name="Experiments"></a>
 
-This folder contains all the log files for the experiments that have been performed in the papers. Some experiments have been reused from the WiseKG paper to avoid rerunning the servers on the same software, the same datasets, and the same hardware configurations.
+This folder contains all the log files for the experiments that have been performed in the papers. Some experiments have been reused from the WiseKG paper to avoid rerunning the servers on the same software, the same datasets, and the same hardware configurations. Also for more extensive details about the arichtecture used and the docker version you can use the following two recources:
+1. Github repistory that have a docker image of the entire experiments: https://github.com/AmrTAzzam/WebQuerying-Experiments
+2. Chapter 8 in the PhD thesis: https://aic.ai.wu.ac.at/~polleres/supervised_theses/Amr_Azzam_PhD_2023.pdf
 
 ## DBpedia Analysis <a name="DBpedia"></a>
 

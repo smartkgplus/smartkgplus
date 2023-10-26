@@ -2,7 +2,7 @@
 
 # Table of contents
 1. [Abstract](#Abstract)
-2. [ClientAndServerImplementation](#Implementation)
+2. [Client and Server implementation](#Implementation)
 3. [Typed-Family Partitioning](#typed)
 4. [Query Workloads](#QueryWorkloads)
 5. [Experiments](#Experiments)

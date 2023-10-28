@@ -28,3 +28,13 @@ In the following, we will show how can you reproduce the three aforementioned co
   
 2. On the client-side, we have implemented SparqlQueryProcessor.java which has two constructors with a boolean tpf. This boolean allows us to switch between tpf and brTPF. In Experiments.java, we switch the boolean tpf based on the configuration we want to evaluate TPF+NP and brTPF+NP. In WiseKGHttpRequestTask.java, we constructURLSingle either by attaching the bindings in case of brTPF request or without bindings in the case of TPF. When the client receives a response from the server and it will be parsed using StarHandlerSingle.java which can differentiate between TPF and brTPF responses. 
 
+##How to configure the code:
+
+smartKG (TPF+NP):
+1. In Experiment.Java: please add true to the boolean tpf. [line 84].
+2. In QueryExecutionPlanServlet.java: please set double local = Double.MAX_VALUE [line 348]
+
+smartKG (brTPF+NP):
+1. In Experiment.Java: please add false to the boolean tpf. [line 84].
+2. In QueryExecutionPlanServlet.java: please set double local = Double.MAX_VALUE [line 348]
+
